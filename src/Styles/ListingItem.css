@@ -1,0 +1,12 @@
+.listing_item {
+    text-align: left;
+}
+
+.listing_item:hover {
+    background-color: #bcbaba;
+    cursor: pointer;
+}
+
+.listing_item_extras {
+    display: flex !important;
+}
