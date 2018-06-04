@@ -59,7 +59,7 @@ class ListingList extends Component {
         }
     }
 
-    //Helper function to 
+    //Helper function to check when 70% through the page
     isNearBottom(el) {
         if (el) {
             return (el.getBoundingClientRect().bottom * 0.7) <= window.innerHeight;
