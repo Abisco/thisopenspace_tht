@@ -1,8 +1,10 @@
 # Abbass-Ali Siwjees Take Home Test for thisopenspace
 Created using create-react-app, this application was created with the following specifications in mind:
 * Grabbing and presenting data from the test API: https://thisopenspace.com/lhl-test?page=x (where x is the page number)
-* Implement pagination of infinite scrolling to show only some listings at a time
+* Implement pagination or infinite scrolling to show only some listings at a time
 * Marked on code readability, maintainability, functionality, and library choices
+
+Upon downloading this repo, run npm install to grab the node modules, followed by npm start to start the app.
 
 ## Implementation
 The application was (as mentioned before) created using create-react-app in order to quickly get started with development. I also used Semantic UI and Axios in order to grab and present the data. 
